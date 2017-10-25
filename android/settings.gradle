@@ -1,0 +1,3 @@
+rootProject.name = 'dynamic_fonts'
+
+include ':app'
